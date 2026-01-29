@@ -3,34 +3,34 @@
 ## Action
 
 ### URL
-LinkBehaviour_A886B97A_86DE_DF6C_41B4_C84E1DCF591C.source = https://www.instagram.com/loremipsum
 LinkBehaviour_527AA7C8_4554_F660_41C9_F42A6A8B0245.source = https://www.instagram.com/loremipsum
-LinkBehaviour_5F95685A_4480_7996_41B7_2514491CE704.source = http://atlanticoriodasostras.com.br/
+LinkBehaviour_A886B97A_86DE_DF6C_41B4_C84E1DCF591C.source = https://www.instagram.com/loremipsum
 LinkBehaviour_527B97C8_4554_F660_4197_85C250E77990.source = http://atlanticoriodasostras.com.br/
+LinkBehaviour_5F95685A_4480_7996_41B7_2514491CE704.source = http://atlanticoriodasostras.com.br/
 LinkBehaviour_527DB7C8_4554_F660_41C9_FDC03CF21BEE.source = https://g.page/?share
 LinkBehaviour_AA4FA96C_86D6_FF64_419A_C39A2104DB18.source = https://g.page/?share
-WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://maps.google.com/maps?output=embed&center=-21.134631,-41.6798331&z=17&q=Centro+Educacional+Batista
-WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://maps.google.com/maps?output=embed&center=-21.134631,-41.6798331&z=17&q=Centro+Educacional+Batista
-LinkBehaviour_5D488FB5_4480_169D_41CB_318AE1D38449.source = https://wa.me/5522999479193?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Centro%20Educacional%20Batista.
 LinkBehaviour_527A57C8_4554_F660_41B6_017C48AE4A45.source = https://wa.me/5522999479193?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Centro%20Educacional%20Batista.
-WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250.url = https://www.atlanticoriodasostras.com.br/
+LinkBehaviour_5D488FB5_4480_169D_41CB_318AE1D38449.source = https://wa.me/5522999479193?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Centro%20Educacional%20Batista.
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250_mobile.url = https://www.atlanticoriodasostras.com.br/
+WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250.url = https://www.atlanticoriodasostras.com.br/
 LinkBehaviour_527A17C8_4554_F660_41D1_4BD00FEAD290.source = https://www.facebook.com/loremipsum
 LinkBehaviour_A9DF3EE8_86D1_756D_41C9_5C199BFCA1F4.source = https://www.facebook.com/loremipsum
+WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.4462771694853!2d-41.67983312581371!3d-21.134630976946646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbc6d920aa2afdb%3A0xad3ee09a9d4cf296!2sCentro%20Educacional%20Batista!5e0!3m2!1spt-BR!2sbr!4v1769724925333!5m2!1spt-BR!2sbr
+WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.4462771694853!2d-41.67983312581371!3d-21.134630976946646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbc6d920aa2afdb%3A0xad3ee09a9d4cf296!2sCentro%20Educacional%20Batista!5e0!3m2!1spt-BR!2sbr!4v1769724925333!5m2!1spt-BR!2sbr
 LinkBehaviour_527A97C8_4554_F660_4189_1253717B4124.source = https://www.instagram.com/batistacentroeducacional/
 LinkBehaviour_5EF7847B_4480_0996_41C2_6C2BA87F8EB8.source = https://www.instagram.com/batistacentroeducacional/
-LinkBehaviour_A8F66727_86DE_D4E3_41DD_CD2445CD042C.source = https://www.linkedin.com/loremipsum
 LinkBehaviour_527A87C8_4554_F660_4179_E9BDB938A43A.source = https://www.linkedin.com/loremipsum
+LinkBehaviour_A8F66727_86DE_D4E3_41DD_CD2445CD042C.source = https://www.linkedin.com/loremipsum
 LinkBehaviour_A8877BF7_86DE_D364_41CB_9FA8275956AC.source = https://www.pinterest.com/loremipsum
 LinkBehaviour_527AE7C8_4554_F660_41C4_E7CD80F11EC1.source = https://www.pinterest.com/loremipsum
-LinkBehaviour_527A47C8_4554_F660_4169_AE7962F5B0CE.source = https://www.twittercom/loremipsum
 LinkBehaviour_B6AE554C_86DE_D4A4_4184_112CFBD00111.source = https://www.twittercom/loremipsum
+LinkBehaviour_527A47C8_4554_F660_4169_AE7962F5B0CE.source = https://www.twittercom/loremipsum
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9_mobile.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9.url = //www.youtube.com/embed/BLisA8zYphs
 LinkBehaviour_A8C367DF_86F1_D3A4_41A1_DF993AC21B46.source = mailto: lorem@ipsum.com
 LinkBehaviour_527D77C8_4554_F660_41CB_08BA175B9F2C.source = mailto: lorem@ipsum.com
-LinkBehaviour_AA56F6C4_86F2_B5A5_41CA_485A44846DD5.source = tel: +34 666 777 888
 LinkBehaviour_527D57B9_4554_F620_41C0_C78B64294CBC.source = tel: +34 666 777 888
+LinkBehaviour_AA56F6C4_86F2_B5A5_41CA_485A44846DD5.source = tel: +34 666 777 888
 
 ## Media
 
@@ -97,14 +97,16 @@ panorama_0D82B220_0171_C374_415A_0EE47FDA0080.label = COORDENAÇÃO PEDAGÓGICA
 panorama_0D81AE8D_0172_C34C_4176_2CE7190BD667.label = CORREDOR AUDITÓRIO
 panorama_0D82C455_0171_C7DC_416A_C65ADE114CE8.label = CORREDOR DIREÇÃO
 panorama_0D838872_0171_4FD7_416E_D6AEE25B28AA.label = CORREDOR ENSINO MÉDIO
-panorama_0D9E4199_0173_4154_4144_A4485320AE17.label = CORREDOR INFANTIL
 panorama_0D9EB6CE_0173_C0CC_4172_FFC595E123F4.label = CORREDOR INFANTIL
 panorama_0D818C74_0173_47DC_4163_38B762B0C791.label = CORREDOR INFANTIL
+panorama_0D9E4199_0173_4154_4144_A4485320AE17.label = CORREDOR INFANTIL
 panorama_0C77E611_0173_4354_4170_0F49B2528E31.label = CORREDOR PRINCIPAL
 panorama_0D83DF53_0171_41D5_4147_17AE59616B7D.label = CORREDOR SALA INFANTIL
 panorama_0D828F8D_0171_C14C_4173_2D2F46185627.label = DIREÇÃO
 panorama_0D81C6C2_0172_C334_4163_EDF199371514.label = ENSINO FUNDAMENTAL I
 panorama_0D81E410_0172_C754_4141_05898A65F490.label = ENSINO FUNDAMENTAL II
+panorama_0D824533_0171_4154_4159_B08838DBC2A2.label = ENSINO MÉDIO
+panorama_0D82DC10_0171_C754_4162_4D7B14B49018.label = ENSINO MÉDIO
 panorama_0F2C7F8C_0172_C14C_4169_6E3AA3B2C319.label = ENTRADA
 panorama_0D9EE128_0173_C174_4148_75D017531558.label = ENTRADA ENSINO INFANTIL
 panorama_0D826CD3_0171_40D4_4160_EFCE80FA8BBE.label = PARQUINHO
@@ -113,11 +115,9 @@ panorama_0D9EB30F_0173_414C_4168_1CB20805080C.label = PÁTIO
 panorama_0D829C6A_0171_47F4_4169_55013CDFCADF.label = QUADRA
 panorama_0D82A7E1_0171_40F4_4162_26582F0A087F.label = RECEPÇÃO
 panorama_0D83EBE5_0171_40FC_4176_54DA226C9CE3.label = SALA DOS PROFESSORES
-panorama_0D82DC10_0171_C754_4162_4D7B14B49018.label = SALA ENSINO MÉDIO
-panorama_0D824533_0171_4154_4159_B08838DBC2A2.label = SALA ENSINO MÉDIO
+panorama_0D9E79A3_0173_4174_4136_BE20BDA60F8E.label = SALA INFANTIL
 panorama_0D838224_0171_4373_414A_5E92C62A9CE0.label = SALA INFANTIL
 panorama_0D9E5F07_0173_413D_4172_D3856FE76D90.label = SALA INFANTIL
-panorama_0D9E79A3_0173_4174_4136_BE20BDA60F8E.label = SALA INFANTIL
 panorama_0D81A0C2_0172_FF34_4177_14EBABC93541.label = ÁREA ENSINO FUNDAMENTAL
 
 ## Skin
