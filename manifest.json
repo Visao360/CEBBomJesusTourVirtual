@@ -1,8 +1,4 @@
 {
- "name": "CEB Bom Jesus",
- "background_color": "#FFFFFF",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true"
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
+ "name": "CEB Bom Jesus"
 }
